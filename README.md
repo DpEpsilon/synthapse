@@ -10,3 +10,7 @@ Written in python 2. Works great with pypy, and you'll probably be needing it.
 The sample sequence in synth.py is one half of the melody of that ridiculous
 composition of mine. There were two parts, this one was square-waveish and
 lower, the other was sawtooth-waveish and higher.
+
+...
+
+wow this code is terrible
