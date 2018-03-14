@@ -100,7 +100,7 @@ def synth_note(note, start, length, vol=1.0, overtones=[1], attacking=False, vib
     samples = int(length * SAMPLE_RATE * BEAT_LENGTH)
     ch = [0.0] * samples
     freq = TUNING_NOTE * (TEMPERAMENT**note)
-    
+
     cur_pos = 0.0
 
     max_amp = 0.0

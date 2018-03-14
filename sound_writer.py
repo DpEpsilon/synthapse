@@ -32,5 +32,3 @@ def swrite_long(f, samp_l, samp_r):
 
 def sclose(f):
     f.close()
-    
-    
